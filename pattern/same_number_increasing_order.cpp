@@ -4,10 +4,10 @@ using namespace std;
 int main (){
 
 // 1
-// 11
-// 111
-// 1111
-// 11111
+// 22
+// 333
+// 4444
+// 55555
     int n;
     cin>>n;
     for (int i=1;i<=n;i++){
