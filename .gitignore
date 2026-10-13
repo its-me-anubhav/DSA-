@@ -1,0 +1,12 @@
+# Compiled Binaries
+*.exe
+*.out
+*.o
+*.obj
+
+# VS Code runner files
+tempCodeRunnerFile.*
+
+# OS files
+Thumbs.db
+.DS_Store
