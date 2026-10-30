@@ -77,20 +77,20 @@ using namespace std;
 // * * * 
 // * * 
 // * 
-// void print3 (int n){
-//     for(int i=1;i<=n;i++){
-//         for(int j=0;j<n-i+1;j++){
-//             cout<<"* ";
-//         }
-//         cout <<endl;
-//     }
-// }
+void print3 (int n){
+    for(int i=1;i<=n;i++){
+        for(int j=0;j<n-i+1;j++){
+            cout<<"* ";
+        }
+        cout <<endl;
+    }
+}
 
-12345
-1234
-123
-12
-1
+// 12345
+// 1234
+// 123
+// 12
+// 1
 void print3 (int n){
     for(int i=0;i<n;i++){
         for(int j=1;j<n-i+1;j++){
