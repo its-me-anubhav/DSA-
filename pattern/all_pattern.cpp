@@ -114,7 +114,7 @@ int main (){
     int n;
     cin>>n;
 
-    // print1(n);
+    print1(n);
 
     print3(n);
 }
