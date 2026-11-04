@@ -15,5 +15,5 @@ for(int i=0;i<n;i++) {
         max = input[i];  
     }
 }
-cout << "max is :" << max << endl;
+cout << "max number is :" << max << endl;
 }
